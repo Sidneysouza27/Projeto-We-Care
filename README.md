@@ -2,3 +2,5 @@
 <br>
 <br>
 <h2>Esse foi o meu primeiro projeto que aprendi no <a href="https://www.rodolfomori.com.br/devclub">Devclub!  🚀</a></h2> 
+
+<img src="https://github.com/Sidneysouza27/Projeto-We-Care/blob/master/Img/imagem%20PC,%20REDME.png?raw=true"/>
