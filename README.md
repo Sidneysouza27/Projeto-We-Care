@@ -8,4 +8,5 @@
 <p>- HTML</p>
 <P>- CSS</P>
 
-<img src="https://github.com/Sidneysouza27/Projeto-We-Care/blob/master/Img/imagem%20PC,%20REDME.png?raw=true"/>
+<img src="https://github.com/Sidneysouza27/Projeto-We-Care/blob/master/Img/Img%20celular%20e%20PC,%20Atual%20README.png?raw=true"/> 
+
